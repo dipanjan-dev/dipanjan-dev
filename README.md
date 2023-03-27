@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="100%" height="300" />
+<img src="https://res.cloudinary.com/paradise-beta/image/upload/v1679895617/b4e371619042d1e80918d09904e90f7d_umqy0n.gif" width="100%" height="300" />
 Hi 👋 My name is Dipanjan Mukherjee
 ===================================
 
